@@ -22,4 +22,3 @@ public class MathFunctions {
 }
 
 /* Interesting */
-/* I don`t now */
