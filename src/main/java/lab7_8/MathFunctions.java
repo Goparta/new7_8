@@ -20,3 +20,5 @@ public class MathFunctions {
         return a / b;
     }
 }
+
+/* Interesting */
